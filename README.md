@@ -7,7 +7,8 @@ El proyecto consiste en un sistema para monitorear la cantidad de pases que los 
 Links:
   - Front: https://github.com/MGA1398/MiniCoreFront
   - Back: https://github.com/MGA1398/MiniCore
-  -README: https://github.com/MGA1398/MiniCore/blob/main/README.md
+  - README: https://github.com/MGA1398/MiniCore/blob/main/README.md
+  - Video presentacion MiniCore: https://udlaec-my.sharepoint.com/:v:/g/personal/juan_leon_udla_edu_ec/EYLACr3MCUdNnm4TNqQKKhIB-YO6s5VyLSYP0TOJNy15KQ?e=PNPmZf
 
 Recursos/ Documentación:
   Angular pipes: https://angular.io/guide/pipes-overview
